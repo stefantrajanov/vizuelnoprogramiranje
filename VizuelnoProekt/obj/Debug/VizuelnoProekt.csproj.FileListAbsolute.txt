@@ -1,0 +1,10 @@
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\bin\Debug\VizuelnoProekt.exe.config
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\bin\Debug\VizuelnoProekt.exe
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\bin\Debug\VizuelnoProekt.pdb
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.Game.resources
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.Properties.Resources.resources
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.exe
+C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.pdb
