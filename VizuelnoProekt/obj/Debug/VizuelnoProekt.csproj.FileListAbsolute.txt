@@ -8,3 +8,25 @@ C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt
 C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.CoreCompileInputs.cache
 C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.exe
 C:\Users\Stefan\Desktop\finki\ucenje\VizuelnoProgramiranje\proekt\VizuelnoProekt\VizuelnoProekt\obj\Debug\VizuelnoProekt.pdb
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\bin\Debug\VizuelnoProekt.exe.config
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\bin\Debug\VizuelnoProekt.exe
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\bin\Debug\VizuelnoProekt.pdb
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.Game.resources
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.Properties.Resources.resources
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.exe
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.pdb
+C:\Users\User\Desktop\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.Uplata.resources
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\bin\Debug\VizuelnoProekt.exe.config
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\bin\Debug\VizuelnoProekt.exe
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\bin\Debug\VizuelnoProekt.pdb
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.AssemblyReference.cache
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.Game.resources
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.Properties.Resources.resources
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.Uplata.resources
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.GenerateResource.cache
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.exe
+C:\Users\Stefan\Downloads\Telegram Desktop\vizuelnoprogramiranje\vizuelnoprogramiranje\VizuelnoProekt\obj\Debug\VizuelnoProekt.pdb
